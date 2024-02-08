@@ -11,6 +11,7 @@ I'm a Full-Stack Developer with a passion for coding. I always aim for the best 
 - **Databases:** NoSQL and Relational databases
 - **Version Control and Operating Systems:** Git / GitHub
 - **Backend Operations:** Developing complex APIs (with NodeJs), protected routes, role-based authentication
+- **Frontend Technologies:** Reactjs, Tailwind, TypeScript, Shadcn and Radix libraries to create intuitive user interface  
 
 ## 🌱 Current Learning Goals
 
