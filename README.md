@@ -23,12 +23,12 @@ I'm a Full-Stack Developer with a passion for coding. I always aim for the best 
 
 ## 📈 GitHub Stats
 
-![Harpreet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnirudhMemani&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+![Anirudh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnirudhMemani&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
 ## 🔗 Links
 
-- **GitHub:** [siinghd](https://github.com/AnirudhMemani)
-- **StackOverflow:** [singh](https://stackoverflow.com/users/19192548/anirudh-m)
+- **GitHub:** [AnirudhMemani](https://github.com/AnirudhMemani)
+- **StackOverflow:** [Anirudh_.M](https://stackoverflow.com/users/19192548/anirudh-m)
 
 ## 📫 Get in touch
 
