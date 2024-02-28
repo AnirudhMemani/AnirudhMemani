@@ -5,8 +5,8 @@ I'm a Full-Stack Developer with a passion for coding. I always aim for the best 
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** TypeScript, JavaScript, Java, Python
-- **Web Technologies:** Proficient in most JavaScript frameworks and libraries
+- **Languages:** TypeScript, JavaScript, Java, Python (beginner)
+- **Web Technologies:** Proficient in JavaScript frameworks and libraries
 - **Mobile Development:** React Native
 - **Databases:** NoSQL and Relational databases
 - **Version Control and Operating Systems:** Git / GitHub
