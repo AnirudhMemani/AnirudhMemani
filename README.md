@@ -24,10 +24,6 @@ I'm a Full-Stack Developer with a passion for coding. I always aim for the best 
 - Exploring new programming paradigms and languages
 - Solve more DSA
 
-## 📈 GitHub Stats
-
-![Anirudh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnirudhMemani&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
-
 ## 🔗 Links
 
 - **GitHub:** [AnirudhMemani](https://github.com/AnirudhMemani)
