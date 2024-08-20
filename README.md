@@ -33,4 +33,4 @@ I'm a Full-Stack Developer with a passion for coding. I always aim for the best 
 
 - Email: nemanianirudh@gmail.com
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnirudhMemani&theme=dark&background=000000&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnirudhMemani&theme=dark&background=000000&card_width=1100)](https://git.io/streak-stats)
