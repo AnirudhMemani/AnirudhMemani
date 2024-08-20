@@ -26,9 +26,11 @@ I'm a Full-Stack Developer with a passion for coding. I always aim for the best 
 
 ## 🔗 Links
 
-- **GitHub:** [AnirudhMemani](https://github.com/AnirudhMemani)
-- **StackOverflow:** [Anirudh_.M](https://stackoverflow.com/users/19192548/anirudh-m)
+- **LinkedIn:** [AnirudhMemani](https://www.linkedin.com/in/anirudhmemani)
+- **Twitter:** [anirudh_mem](https://x.com/anirudh_mem)
 
 ## 📫 Get in touch
 
 - Email: nemanianirudh@gmail.com
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnirudhMemani&theme=dark&background=000000)](https://git.io/streak-stats)
