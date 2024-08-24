@@ -11,8 +11,10 @@ I'm a Full-Stack Developer with a passion for coding. I always aim for the best 
 - **Databases:** MySQL, MongoDB, PostgreSQL, Firestore
 - **ORM:** Prisma, Drizzle
 - **Version Control and Operating Systems:** Git / GitHub
-- **Backend Operations:** Nodejs, Nextjs, Next Auth, Websocket, Zod, Redis, developing complex APIs (with NodeJs), protected routes, role-based authentication
+- **Backend Operations:** Nodejs, Nextjs, Websocket, Zod, Redis, Pub/Subs, RabbitMQ and more. 
+- **Authentication:** Passportjs, Next Auth, Firebase, Lucia Auth. 
 - **Frontend Technologies:** Reactjs, Tailwind, Nextjs, Redux toolkit, Recoil, webRTC to create an intuitive user interface
+- **DevOps:** Docker
 - **Others:** MonoRepo and TurboRepo
 
 ## 🌱 Current Learning Goals
