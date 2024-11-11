@@ -18,7 +18,7 @@ There's someone out there with half your talent but twice your work ethic, and t
 </div>
 
 <div>
-    <img alt="Gojo-Satoru" src="https://i.ibb.co/JcXtYyn/gojo-banner-4.webp" height="300" />
+    <img alt="Gojo-Satoru" src="https://i.ibb.co/PjVpySF/gojo-banner-4.gif" height="300" />
 </div>
 
 <a href="https://git.io/streak-stats">
