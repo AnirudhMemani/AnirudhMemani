@@ -1,4 +1,4 @@
-# Success doesn't care how you feel. Get up, grind, and earn it.
+## If the universe has no obligation to make sense to us, then what are we really searching for in the stars?
 
 There's someone out there with half your talent but twice your work ethic, and they're winning. Every excuse is a nail in the coffin of your dreams.
 
