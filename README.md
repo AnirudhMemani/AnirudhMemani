@@ -22,7 +22,7 @@ There's someone out there with half your talent but twice your work ethic, and t
 </div>
 
 <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=AnirudhMemani&theme=dark&background=000000" alt="GitHub Streak" style="width: 100%;" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=AnirudhMemani&theme=dark&background=000000" alt="GitHub Streak" height="696" />
 </a>
 
 <picture>
