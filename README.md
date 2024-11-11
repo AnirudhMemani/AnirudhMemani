@@ -1,38 +1,29 @@
-# Hello, I'm Anirudh Memani! 👋 ![](https://komarev.com/ghpvc/?username=AnirudhMemani)
+# Success doesn't care how you feel. Get up, grind, and earn it.
 
-I'm a Full-Stack Developer with a passion for coding. I always aim for the best code quality and smooth coding. I'm excited about using new technologies in my projects. Learning new things is important to me. I love sports, exploring new adventures, and technical analysis (trading).
+There's someone out there with half your talent but twice your work ethic, and they're winning. Every excuse is a nail in the coffin of your dreams.
 
-## 🛠️ Technologies & Tools
+<div align="left">
+  <a href="mailto:nemanianirudh@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://x.com/anirudh_mem">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/anirudhmemani">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/ani_.mem">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  </a>
+</div>
 
--   **Languages:** TypeScript, JavaScript, Java, Python (beginner)
--   **Web Technologies:** Proficient in JavaScript frameworks and libraries
--   **Mobile Development:** React Native
--   **Databases:** MySQL, MongoDB, PostgreSQL
--   **ORM:** Prisma, Drizzle
--   **Version Control and Operating Systems:** Git / GitHub, Linux
--   **Backend Operations:** Nodejs, Nextjs, Websocket, Redis, Pub/Subs, RabbitMQ, Newrelic, Prometheus and Grafana, GRPC
--   **Authentication:** Passportjs, Next Auth, Firebase, Lucia Auth and more
--   **Frontend Technologies:** Reactjs, Nextjs, Redux toolkit, Recoil, WebRTC, Tailwind
--   **DevOps:** CI/CD Pipelines, Docker
--   **Others:** MonoRepo and TurboRepo, AWS EC2, S3 Bucket, SES and SNS
+<div>
+    <img alt="Gojo-Satoru" src="https://i.ibb.co/JcXtYyn/gojo-banner-4.webp" height="300" />
+</div>
 
-## 🌱 Current Learning Goals
-
--   Master AI/ML
--   Explore web3 smart contract development
--   Exploring new programming languages
--   Solve more DSA
-
-## 🔗 Links
-
--   **LinkedIn:** [AnirudhMemani](https://www.linkedin.com/in/anirudhmemani)
--   **Twitter:** [anirudh_mem](https://x.com/anirudh_mem)
-
-## 📫 Get in touch
-
--   Email: nemanianirudh@gmail.com
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnirudhMemani&theme=dark&background=000000&card_width=696)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=AnirudhMemani&theme=dark&background=000000" alt="GitHub Streak" style="width: 100%;" />
+</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnirudhMemani/AnirudhMemani/output/github-snake-dark.svg" />
