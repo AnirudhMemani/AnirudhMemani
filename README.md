@@ -1,4 +1,4 @@
-# A Humbling Glimpse Into the Infinite
+# A Humbling Glimpse Into Infinity
 
 <strong>If the universe has no obligation to make sense to us, then what are we really searching for in the stars?</strong> </br>
 In the grand scheme of things, you are less than a speck of dust. But in your own story, you hold the pen - just don’t forget how small that book is.
