@@ -4,10 +4,10 @@
 In the grand scheme of things, you are less than a speck of dust. But in your own story, you hold the pen - just don’t forget how small that book is.
 
 <div align="left">
-  <a href="https://x.com/anirudh_mem">
+  <a href="https://x.com/anirudh_mem" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
   </a>
-  <a href="mailto:nemanianirudh@gmail.com">
+  <a href="mailto:nemanianirudh@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" />
   </a>
 </div>
@@ -16,7 +16,7 @@ In the grand scheme of things, you are less than a speck of dust. But in your ow
     <img alt="Gojo-Satoru" src="https://i.ibb.co/PjVpySF/gojo-banner-4.gif" height="300" />
 </div>
 
-<a href="https://git.io/streak-stats">
+<a href="https://git.io/streak-stats" target="_blank">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=AnirudhMemani&theme=dark&background=000000&card_width=696" alt="GitHub Streak" />
 </a>
 
