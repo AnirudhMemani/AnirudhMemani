@@ -3,7 +3,7 @@
 Forever chasing the horizon.
 
 <div>
-    <img alt="trippy" src="https://i.ibb.co/FTZj1zJ/dance.gif" height="300" />
+    <img alt="trippy" src="https://i.ibb.co/FTZj1zJ/dance.gif" height="300" width="300" />
 </div>
 
 <a href="https://git.io/streak-stats" target="_blank">
