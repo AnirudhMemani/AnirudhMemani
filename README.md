@@ -1,19 +1,9 @@
 # A Humbling Glimpse Into Infinity
 
-<strong>If the universe has no obligation to make sense to us, then what are we really searching for in the stars?</strong> </br>
-In the grand scheme of things, you are less than a speck of dust. But in your own story, you hold the pen - just don’t forget how small that book is.
-
-<div align="left">
-  <a href="https://x.com/anirudh_mem" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
-  </a>
-  <a href="mailto:nemanianirudh@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" />
-  </a>
-</div>
+Forever chasing the horizon.
 
 <div>
-    <img alt="Gojo-Satoru" src="https://i.ibb.co/PjVpySF/gojo-banner-4.gif" height="300" />
+    <img alt="trippy" src="https://i.ibb.co/FTZj1zJ/dance.gif" height="300" />
 </div>
 
 <a href="https://git.io/streak-stats" target="_blank">
@@ -25,3 +15,15 @@ In the grand scheme of things, you are less than a speck of dust. But in your ow
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnirudhMemani/AnirudhMemani/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/AnirudhMemani/AnirudhMemani/output/github-snake.svg" />
 </picture>
+
+<div align="left">
+  <a href="https://x.com/anirudh_mem" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
+  </a>
+  <a href="mailto:nemanianirudh@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" />
+  </a>
+</div>
+
+<!--     <img alt="Gojo-Satoru" src="https://i.ibb.co/PjVpySF/gojo-banner-4.gif" height="300" /> -->
+<!--     <img alt="trippy" src="https://i.ibb.co/ZRW46tzx/ezgif-47586a01f8b890-2.gif" height="300" /> -->
