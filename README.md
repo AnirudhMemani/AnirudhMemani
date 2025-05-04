@@ -2,9 +2,7 @@
 
 Forever chasing the horizon.
 
-<div>
-    <img alt="Trippy-Dance" src="https://i.ibb.co/9KTV2Mn/dance-works-1.gif" preload=true height="300" />
-</div>
+![dance-works (1)](https://github.com/user-attachments/assets/35ecc13d-ec62-4844-829e-b1c71bf317bc)
 
 <a href="https://git.io/streak-stats" target="_blank">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=AnirudhMemani&theme=dark&background=000000&card_width=696" alt="GitHub Streak" />
@@ -24,6 +22,3 @@ Forever chasing the horizon.
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" />
   </a>
 </div>
-
-<!--     <img alt="Gojo-Satoru" src="https://i.ibb.co/PjVpySF/gojo-banner-4.gif" height="300" /> -->
-<!--     <img alt="trippy" src="https://i.ibb.co/ZRW46tzx/ezgif-47586a01f8b890-2.gif" height="300" /> -->
